@@ -18,7 +18,7 @@
     "firebase": "^7.14.2",
     "firebase-admin": "^8.10.0",
     "firebase-functions": "^3.6.1",
-    "lodash": "^4.17.19",
+    "lodash": "^4.17.21",
     "uuidv4": "^6.0.8",
     "websocket-extensions": "^0.1.4"
   },
